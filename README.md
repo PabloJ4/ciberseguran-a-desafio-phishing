@@ -34,6 +34,6 @@
    - Selecione "Site Cloner."
 ### Telas
 
-![Alt text](./telas/tela1.png "Optional title")
-![Alt text](./telas/tela2.png "Optional title")
-![Alt text](./telas/tela3.png "Optional title")
+![Alt text](./Telas/tela1.png "Optional title")
+![Alt text](./Telas/tela2.png "Optional title")
+![Alt text](./Telas/tela3.png "Optional title")
